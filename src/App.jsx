@@ -63,7 +63,7 @@ export default function App() {
             Email: <a href="mailto:vitorpatriotadev@email.com">vitorpatriotadev@email.com</a>
           </p>
           <p>
-            LinkedIn: <a href="www.linkedin.com/in/vitor-patriota
+            LinkedIn: <a href="https://www.linkedin.com/in/vitor-patriota
 
 " target="_blank" rel="noreferrer">www.linkedin.com/in/vitor-patriota
 
