@@ -21,7 +21,7 @@ export default function Header() {
 
         <div className="header-ctas">
           <a className="btn primary" href="https://github.com/Vitor-Patriota" target="_blank" rel="noreferrer">GitHub</a>
-          <a className="btn ghost" href="www.linkedin.com/in/vitor-patriota" target="_blank" rel="noreferrer">LinkedIn</a>
+          <a className="btn ghost" href="https://www.linkedin.com/in/vitor-patriota" target="_blank" rel="noreferrer">LinkedIn</a>
         </div>
       </div>
     </header>
